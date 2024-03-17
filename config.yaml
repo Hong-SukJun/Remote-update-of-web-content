@@ -1,0 +1,36 @@
+app: sc_autoupdate_html
+app_info:
+  container: application
+  deployment: single
+  description: sc_autoupdate_html
+  language: node
+  node_types:
+  - MEN
+  - MN
+  platforms:
+    arm32v7:
+    - iesv2.5
+    arm64v8:
+    - iesv0.9
+    - iesv1.0
+  targets: []
+  type: app
+  version: 1.1.0
+  view: :9100
+docker:
+  ports:
+    publish:
+    - 9600:9600
+  secure:
+    arg:
+      licenses: []
+    label:
+      devices: []
+      features: []
+      unauth_host: true
+      uuid: 00000027-C8E6-45B7-8D1C-C25FC1B3F9D8
+      volumes:
+        offers: []
+        persists: []
+        requests: []
+version: 2
