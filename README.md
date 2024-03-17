@@ -9,3 +9,7 @@
 
 ![Untitled](https://github.com/Hong-SukJun/-/assets/163775403/ec939fe6-b7ba-4d6c-a7bd-fad60cb4a941)
 ![image](https://github.com/Hong-SukJun/-/assets/163775403/b1356dab-a477-4281-8972-c9d1dd224e25)
+
+
+개발 과정 및 구동 예시
+[원격업데이트.pptx](https://github.com/Hong-SukJun/-/files/14628881/default.pptx)
